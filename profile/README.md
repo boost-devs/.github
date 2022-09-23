@@ -1,4 +1,4 @@
-## 🚀 Boostcamper에서 BoostDev로 
+## Boostcamper에서 BoostDev로🚀
 
  <table>
     <tr height="160px">
