@@ -1,6 +1,6 @@
-## Boostcamper에서 BoostDev로🚀
-
- <table>
+<div align='center'>
+<h3><i>Boostcamper에서 BoostDev로🚀</i></small></h3>
+<table>
     <tr height="160px">
         <td align="center" width="150px">
             <a href="https://github.com/CoodingPenguin"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/37505775?s=460&u=44732fef53503e63d47192ce5c2de747eff5f0c6&v=4"/></a>
@@ -28,3 +28,4 @@
         </td>
     </tr>
 </table>
+</div>
