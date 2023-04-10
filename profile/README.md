@@ -1,14 +1,13 @@
-<div align='center'>
-<h3><i>Boostcamper에서 BoostDev로🚀</i></small></h3>
-</div>
 
 <div align="center">
 <h4>📌 Notice</h4>
-<p>organization name이 boostcamp-ai-tech-4에서 boost-devs로 변경되었습니다!</p>
+<p><i><small>organization name이 boostcamp-ai-tech-4에서 boost-devs로 변경되었습니다!</small></i></p>
 </div>
 
+---
 
-<div align="center">
+<div align='center'>
+<h3><i>Boostcamper에서 BoostDev로🚀</i></small></h3>
 <table>
     <tr height="160px">
         <td align="center" width="150px">
